@@ -105,9 +105,6 @@ print(f"Estimated Price: ${estimated_price:.2f}")
 ## Conclusion
 
 This project provides a basic framework for understanding and modeling the pricing of carbon credits. With further data and refinement, the model can be enhanced to provide more accurate and reliable price estimates.
-```
-
-This `README.md` file provides an overview of the project, installation instructions, usage guidelines, details on the factors influencing carbon credit prices, and an explanation of the pricing model, visualizations, user input function, and limitations with suggestions for improvements.
 
 # Assignment 3 - API + Database Integration and Dashboard
 

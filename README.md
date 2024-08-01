@@ -1,4 +1,4 @@
-# CarbonMarkets
+# CarbonMarketsHQ Assignment
 
 # Assignment 2 - Custom Carbon Credit Pricing Model
 
